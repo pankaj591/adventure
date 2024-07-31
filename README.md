@@ -1,4 +1,4 @@
 # adventure
 This is my first Git Repository.
 <br>
-Authore - Pankaj Deshmukh
+Authore - Pankaj (adventure)
